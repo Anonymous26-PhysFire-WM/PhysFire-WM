@@ -10,7 +10,7 @@ The following datasets are used for training and evaluation:
 
 1. **FireSentry Dataset** [GitHub Repository](https://github.com/Munan222/FireSentry-Benchmark-Dataset)
 
-2. **Sim2Real-Fire** (Real-world data part) [GitHub Repository](https://github.com/TJU-IDVLab/Sim2Real-Fire)
+2. **Sim2Real-Fire** (only use real-world data part) [GitHub Repository](https://github.com/TJU-IDVLab/Sim2Real-Fire)
 
 The dataset is organized as follows:
 
